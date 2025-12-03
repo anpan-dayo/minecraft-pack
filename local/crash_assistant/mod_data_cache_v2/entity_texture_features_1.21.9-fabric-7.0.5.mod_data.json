@@ -1,0 +1,1 @@
+{"jarName":"entity_texture_features_1.21.9-fabric-7.0.5.jar","modId":"entity_texture_features","version":"7.0.5","mixinConfigs":["entity_texture_features.mixins.json"],"jarJarMods":[{"jarName":"httpmime-4.5.10.jar","modId":"org_apache_httpcomponents_httpmime","version":"4.5.10","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

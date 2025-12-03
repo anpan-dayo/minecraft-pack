@@ -1,0 +1,1 @@
+{"jarName":"ExtremeSoundMuffler-3.51_Fabric-1.21.9.jar","modId":"extremesoundmuffler","version":"3.51","mixinConfigs":["extremesoundmuffler.mixins.json"],"jarJarMods":[{"jarName":"fiber-0.23.0-2.jar","modId":"fiber","version":"0.23.0-2","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

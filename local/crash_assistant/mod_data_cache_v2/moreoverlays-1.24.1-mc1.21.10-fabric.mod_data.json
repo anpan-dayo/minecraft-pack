@@ -1,0 +1,1 @@
+{"jarName":"moreoverlays-1.24.1-mc1.21.10-fabric.jar","modId":"moreoverlays","version":"1.24.1","mixinConfigs":["moreoverlays.main.mixins.json"],"jarJarMods":[{"jarName":"owo-sentinel-0.12.24+1.21.9.jar","modId":"owo-sentinel","version":"0.12.24+1.21.9","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

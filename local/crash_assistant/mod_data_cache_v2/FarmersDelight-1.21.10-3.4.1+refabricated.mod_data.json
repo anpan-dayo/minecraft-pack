@@ -1,0 +1,1 @@
+{"jarName":"FarmersDelight-1.21.10-3.4.1+refabricated.jar","modId":"farmersdelight","version":"1.21.10-3.4.1+refabricated","mixinConfigs":["farmersdelight.mixins.json"],"jarJarMods":[{"jarName":"Fabric-ASM-v2.3.jar","modId":"mm","version":"2.3","mixinConfigs":["mixins.mm.json","mixins.mm.refmap.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

@@ -1,0 +1,1 @@
+{"jarName":"ferritecore-8.0.2-fabric.jar","modId":"ferritecore","version":"8.0.2","mixinConfigs":["ferritecore.threaddetec.mixin.json","ferritecore.blockstatecache.mixin.json","ferritecore.accessors.mixin.json","ferritecore.fastmap.mixin.json"],"jarJarMods":[]}

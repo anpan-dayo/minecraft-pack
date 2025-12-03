@@ -1,0 +1,81 @@
+{
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -34,
+                "bottom": -19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -34,
+                "top": 66
+            },
+            "SORT": {
+                "horizontalOffset": -70,
+                "top": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -58,
+                "top": 42
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -46,
+                "top": 54
+            },
+            "SETTINGS": {
+                "top": -1
+            }
+        }
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 80,
+                "bottom": 90
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 120,
+                "top": -16
+            },
+            "SORT": {
+                "horizontalOffset": 120,
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 120,
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 120,
+                "top": -16
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -8
+            }
+        }
+    },
+    "net.mcreator.pocketvillagers.client.gui.FishingPocketCubeScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 6,
+                "top": 26
+            },
+            "SORT": {
+                "horizontalOffset": 14,
+                "top": 26
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 14,
+                "top": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 14,
+                "top": 26
+            }
+        }
+    }
+}

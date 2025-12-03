@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "terrain": false,
+  "atmospheric": false,
+  "thick": false,
+  "dimensionOrBoss": true,
+  "water": true,
+  "lava": true,
+  "powderSnow": true,
+  "blindness": true,
+  "darkness": true
+}

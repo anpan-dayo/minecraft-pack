@@ -1,0 +1,1 @@
+{"jarName":"AmbientEnvironment-fabric-1.21.10-27.0.0.2.jar","modId":"ambientenvironment","version":"27.0.0.2","mixinConfigs":["ambientenvironment.mixins.json","ambientenvironment.fabric.mixins.json"],"jarJarMods":[]}

@@ -1,0 +1,1 @@
+{"jarName":"CutThrough-v21.10.0+mc1.21.10-Fabric.jar","modId":"cutthrough","version":"21.10.0","mixinConfigs":["cutthrough.fabric.mixins.json","cutthrough.common.mixins.json"],"jarJarMods":[]}

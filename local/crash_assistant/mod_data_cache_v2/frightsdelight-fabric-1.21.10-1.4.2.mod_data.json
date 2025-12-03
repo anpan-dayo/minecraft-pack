@@ -1,0 +1,1 @@
+{"jarName":"frightsdelight-fabric-1.21.10-1.4.2.jar","modId":"frightsdelight","version":"1.4.2","mixinConfigs":["frightsdelight.mixins.json","frightsdelight-common.mixins.json"],"jarJarMods":[{"jarName":"midnightlib-1.8.3+1.21.9-fabric.jar","modId":"midnightlib","version":"1.8.3","mixinConfigs":["midnightlib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}]}

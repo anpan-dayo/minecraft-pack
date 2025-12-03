@@ -1,0 +1,16 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "xaero.map.gui.GuiMap": true,
+    "gg.essential.gui.wardrobe.Wardrobe": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "net.minecraft.class_429": true,
+    "net.minecraft.class_5375": true,
+    "gg.essential.gui.emotes.EmoteWheel": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}

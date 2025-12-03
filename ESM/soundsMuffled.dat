@@ -1,0 +1,5 @@
+{
+  "minecraft:entity.villager.ambient": 0.0,
+  "animalgarden_owl:entity.animalgarden_owl.idle": 0.0,
+  "minecraft:entity.wolf_big.ambient": 0.0
+}

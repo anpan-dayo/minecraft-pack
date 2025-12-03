@@ -1,0 +1,9 @@
+{
+  "decayRate": 0.2,
+  "maxStamina": 100,
+  "initialStamina": 0,
+  "foodRestoreAmount": 20,
+  "baseSpeed": 0.05,
+  "maxSpeed": 0.125,
+  "curveStrength": 2.0
+}

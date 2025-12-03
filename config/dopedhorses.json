@@ -1,0 +1,26 @@
+{
+  "fasterBlocks": [
+    "dirt_path\u003d0.3",
+    ".*concrete\u003d0.5"
+  ],
+  "ironShoeSpeedModifier": 0.04,
+  "goldShoeSpeedModifier": 0.06,
+  "diamondShoeSpeedModifier": 0.8,
+  "netheriteShoeSpeedModifier": 0.12,
+  "ironShoeStepHeightModifier": 0.5,
+  "goldShoeStepHeightModifier": 1.0,
+  "diamondShoeStepHeightModifier": 1.5,
+  "netheriteShoeStepHeightModifier": 2.0,
+  "ironShoeJumpModifier": 0.1,
+  "goldShoeJumpModifier": 0.2,
+  "diamondShoeJumpModifier": 0.3,
+  "netheriteShoeJumpModifier": 0.6,
+  "ironShoeArmorModifier": 5.0,
+  "goldShoeArmorModifier": 2.5,
+  "diamondShoeArmorModifier": 7.0,
+  "netheriteShoeArmorModifier": 10.0,
+  "ironShoeLootChance": 0.15,
+  "goldShoeLootChance": 0.1,
+  "diamondShoeLootChance": 0.06,
+  "netheriteShoeLootChance": 0.03
+}

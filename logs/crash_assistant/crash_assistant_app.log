@@ -1,0 +1,39 @@
+[2025-11-26 22:45:46.919] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-11-26 22:45:46.922] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, local\crash_assistant\29388_1764164738892_app.jar, -parentPID, 29388, -parentStarted, 1764164738892, -platform, FABRIC, -loaderJarName, fabric-loader-0.17.3.jar, -minecraftVersion, 1.21.10, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarName, CrashAssistant-fabric-1.21.5-1.21.10-1.10.23.jar, -classPath, local\crash_assistant\29388_1764164738892_app.jar;local\crash_assistant\29388_1764164738892_mod.jar;C:\Users\cir74\curseforge\minecraft\Install\libraries\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;C:\Users\cir74\curseforge\minecraft\Install\libraries\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;C:\Users\cir74\curseforge\minecraft\Install\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\cir74\curseforge\minecraft\Install\libraries\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar;C:\Users\cir74\curseforge\minecraft\Install\libraries\net\java\dev\jna\jna\5.15.0\jna-5.15.0.jar;C:\Users\cir74\curseforge\minecraft\Install\libraries\net\java\dev\jna\jna-platform\5.15.0\jna-platform-5.15.0.jar, -parentXms, 256m, -parentXmx, 14848m, -systemRAM, 31.8g, -processor, MTN0aCBHZW4gSW50ZWwoUikgQ29yZShUTSkgaTctMTM3MDBLRg==, -serialisedGPUs, VnVsa2FuIEdQVSBkZXRlY3Rpb24gYWRkb24gbm90IGZvdW5kLCBmYWxsaW5nIGJhY2sgdG8gRGlyZWN0WApTdWNjZXNzZnVsbHkgZGV0ZWN0ZWQgR1BVcyB1c2luZyBEaXJlY3RYOgpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggNDA3MCBUaQoNCg==]
+[2025-11-26 22:45:46.922] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\cir74\curseforge\minecraft\Instances\__
+[2025-11-26 22:45:46.922] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-fabric-1.21.5-1.21.10-1.10.23.jar
+[2025-11-26 22:45:46.923] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 29388
+[2025-11-26 22:45:46.923] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1764164738892
+[2025-11-26 22:45:46.925] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FABRIC
+[2025-11-26 22:45:46.925] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fabric-loader-0.17.3.jar
+[2025-11-26 22:45:46.925] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.21.10
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 256m
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 14848m
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 31.8g
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: 13th Gen Intel(R) Core(TM) i7-13700KF
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan GPU detection addon not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+DEDICATED : NVIDIA GeForce RTX 4070 Ti
+
+
+[2025-11-26 22:45:46.926] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 11
+[2025-11-26 22:45:46.930] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\cir74\curseforge\minecraft\Install\java\java-runtime-delta\bin\javaw.exe
+[2025-11-26 22:45:46.930] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 21.0.8+9-LTS
+[2025-11-26 22:45:46.945] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 29388 to stop.
+[2025-11-26 22:46:16.303] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2
+[2025-11-26 23:34:30.600] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "29388" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-11-26 23:34:30.637] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\cir74\curseforge\minecraft\Instances\__\logs\latest.log
+[2025-11-26 23:34:30.638] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stderr_stream.log size: 386 bytes
+[2025-11-26 23:34:30.641] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\cir74\curseforge\minecraft\Instances\__\logs\crash_assistant\crash_assistant_app.log
+[2025-11-26 23:34:30.642] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-11-26 23:34:30.642] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: true
+[2025-11-26 23:34:30.642] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stop() function of Minecraft fired: true
+[2025-11-26 23:34:30.642] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: close() function of Minecraft failed: false
+[2025-11-26 23:34:30.642] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: emergencySave() function of Minecraft fired: false
+[2025-11-26 23:34:30.644] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isModpackCreator: true
+[2025-11-26 23:34:30.645] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isHelpLinkDefault: true
+[2025-11-26 23:34:30.646] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: helpLink: https://discord.gg/v6v4pMv
+[2025-11-26 23:34:30.647] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.

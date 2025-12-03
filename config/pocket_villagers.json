@@ -1,0 +1,20 @@
+{
+  "farmingTickInterval": 6000,
+  "miningTickInterval": 6000,
+  "fishingTickInterval": 3600,
+  "ironFarmTickInterval": 6000,
+  "converterZombifyTime": 24000,
+  "converterCureTime": 24000,
+  "requireFuelSlot": true,
+  "fuelDurationTicks": 6000,
+  "enableEfficiency": true,
+  "efficiencySpeedBonus": 0.1,
+  "enableFortune": true,
+  "enableTerminalTab": true,
+  "terminalTabTimeout": 300000,
+  "terminalMaxRange": 64,
+  "enableVillagerHolograms": true,
+  "villagerRenderDistance": 64.0,
+  "breederBreedingCooldown": 12000,
+  "breederBabyGrowthTime": 24000
+}

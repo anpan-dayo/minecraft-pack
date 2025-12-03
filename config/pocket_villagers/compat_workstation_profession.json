@@ -1,0 +1,16 @@
+{
+  "minecraft:lectern": "minecraft:librarian",
+  "minecraft:composter": "minecraft:farmer",
+  "minecraft:brewing_stand": "minecraft:cleric",
+  "minecraft:fletching_table": "minecraft:fletcher",
+  "minecraft:barrel": "minecraft:fisherman",
+  "minecraft:stonecutter": "minecraft:mason",
+  "minecraft:blast_furnace": "minecraft:armorer",
+  "minecraft:smoker": "minecraft:butcher",
+  "minecraft:cauldron": "minecraft:leatherworker",
+  "minecraft:smithing_table": "minecraft:toolsmith",
+  "minecraft:grindstone": "minecraft:weaponsmith",
+  "minecraft:cartography_table": "minecraft:cartographer",
+  "minecraft:loom": "minecraft:shepherd",
+  "minecraft:furnace": "minecraft:armorer"
+}
